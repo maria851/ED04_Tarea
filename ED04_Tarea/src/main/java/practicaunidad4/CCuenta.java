@@ -28,10 +28,10 @@ public class CCuenta {
     }
     /** Constructor con parametro para iniciar todas las propiedades de la clase
      * 
-     * @param string
-     * @param string1
-     * @param d
-     * @param d1
+     * @param nom
+     * @param sal
+     * @param cue
+     * @param tipo
      */
     public CCuenta (String nom, String cue, double sal, double tipo)
     {
